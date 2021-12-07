@@ -1,5 +1,5 @@
-# Python program to implement
-# Webcam Motion Detector
+# Python program for Senior Capstone Project.
+# Webcam Motion Detector for capturing animal movements.
 
 # importing OpenCV, time and Pandas library
 import cv2, time, pandas
